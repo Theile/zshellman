@@ -1,4 +1,4 @@
-# zshellman
+# ZShellman (`zshellman`)
 
 [![GitHub release](https://img.shields.io/github/release/Theile/zshellman.svg?style=plastic)](https://github.com/Theile/zshellman/releases)
 [![GitHub license](https://img.shields.io/github/license/Theile/zshellman.svg?style=plastic)](https://github.com/Theile/zshellman/blob/master/LICENSE.md)
@@ -10,7 +10,7 @@
 
 This fork will add Sea Shell (zsh) script snippets to the extension.
 
-# Original shellman scripting snippet description
+# Original Shellman scripting snippet description
 
 Learn easy Shell Scripting with `Shellman`, examples included. [Download](https://github.com/yousefvand/shellman-ebook) free ebook (pdf, epub). Reading the `Basics` part of the book is strongly recommended if you are new to `Shell Scripting`. Finally first edition of the ebook published.
 
