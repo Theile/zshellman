@@ -1,12 +1,16 @@
-# shellman
+# zshellman
 
-[![GitHub release](https://img.shields.io/github/release/yousefvand/shellman.svg?style=plastic)](https://github.com/yousefvand/shellman/releases)
-[![GitHub license](https://img.shields.io/github/license/yousefvand/shellman.svg?style=plastic)](https://github.com/yousefvand/shellman/blob/master/LICENSE.md)
-[![GitHub stars](https://img.shields.io/github/stars/yousefvand/shellman.svg?style=plastic)](https://github.com/yousefvand/shellman/stargazers)
-[![GitHub issues](https://img.shields.io/github/forks/yousefvand/shellman.svg?style=plastic)](https://github.com/yousefvand/shellman/forks)
-[![GitHub issues](https://img.shields.io/github/issues/yousefvand/shellman.svg?style=plastic)](https://github.com/yousefvand/shellman/issues)
+[![GitHub release](https://img.shields.io/github/release/Theile/zshellman.svg?style=plastic)](https://github.com/Theile/zshellman/releases)
+[![GitHub license](https://img.shields.io/github/license/Theile/zshellman.svg?style=plastic)](https://github.com/Theile/zshellman/blob/master/LICENSE.md)
+[![GitHub stars](https://img.shields.io/github/stars/Theile/zshellman.svg?style=plastic)](https://github.com/Theile/zshellman/stargazers)
+[![GitHub issues](https://img.shields.io/github/forks/Theile/zshellman.svg?style=plastic)](https://github.com/Theile/zshellman/forks)
+[![GitHub issues](https://img.shields.io/github/issues/Theile/zshellman.svg?style=plastic)](https://github.com/Theile/zshellman/issues)
 
-## Shell scripting snippet
+## Sea Shell (zsh) scripting snippet
+
+This fork will add Sea Shell (zsh) script snippets to the extension.
+
+# Original shellman scripting snippet description
 
 Learn easy Shell Scripting with `Shellman`, examples included. [Download](https://github.com/yousefvand/shellman-ebook) free ebook (pdf, epub). Reading the `Basics` part of the book is strongly recommended if you are new to `Shell Scripting`. Finally first edition of the ebook published.
 
